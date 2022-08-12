@@ -15,22 +15,22 @@ this command will open a Cypress window
 
 ###### After having placed that command, a page similar to this will open
 
-![Image](./img/Foto1.PNG)
+![Image](./Foto1.PNG)
 
 ###### Once this image is open, we click on the button where it says E2E TESTING.
 That will send us to this tab
 
-![Image](./img/Foto2.PNG)
+![Image](./Foto2.PNG)
 
 ###### Here we are going to choose the browser of your choice
 After this step we will look for the name that we added to the project in this case the name is "PrimerTrueba.cy"
 
-![Image](./img/Foto3.PNG)
+![Image](./Foto3.PNG)
 
 ###### In this image the file appears last
 Once you have already selected the project, CYPRESS will start executing it and it should give us a result like this
 
-![Image](./img/Foto.PNG)
+![Image](./Foto.PNG)
 
 
 
