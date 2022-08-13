@@ -1,0 +1,16 @@
+{
+  "name": "cypressuiplatzi-nuestra-primer-prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open "
+  },
+  "keywords": [],
+  "author": "Saul Martinez <Msaul03>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "prettier": "^2.7.1"
+  }
+}
